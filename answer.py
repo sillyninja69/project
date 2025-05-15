@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv("kai.env")
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("OPENAIAPIKEY")
 
 def answer_questions(input_text):
     completion = openai.Completion()
