@@ -53,7 +53,7 @@ from dotenv import load_dotenv
 
 load_dotenv("kai.env")
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("OPENAIAPIKEY")
 
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
