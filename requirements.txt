@@ -10,3 +10,4 @@ opencage
 folium
 holiday
 pyttsx3
+SpeechRecognition
