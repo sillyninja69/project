@@ -1,0 +1,12 @@
+openai
+python-dotenv
+pywhatkit
+pynput
+pycaw
+opencv-python
+screen-brightness-control
+phonenumbers
+opencage
+folium
+holiday
+os
