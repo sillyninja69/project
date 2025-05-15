@@ -12,3 +12,4 @@ holiday
 pyttsx3
 SpeechRecognition
 googletrans==4.0.0rc1
+gtts
