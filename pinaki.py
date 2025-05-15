@@ -6,7 +6,7 @@ import wikipedia #pip install wikipedia
 import webbrowser
 import os
 import smtplib
-import pywhatkit 
+#import pywhatkit 
 from fnmatch import translate
 from time import sleep
 from googletrans import Translator
