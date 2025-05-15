@@ -1,0 +1,18 @@
+# Environment files
+.env
+kai.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings folder
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Python virtual environments
+venv/
+env/
